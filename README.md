@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning Java and Python
 - 💞️ I’m looking to collaborate on AI projects
-- 📫 You can reach me by linkedn account or email/ ra.mlq63@gmail.com
+- 📫 You can reach me by linkedn or email/ ra.mlq63@gmail.com
 
 <!---
 RaMq63/RaMq63 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
